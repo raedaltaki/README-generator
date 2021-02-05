@@ -2,7 +2,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMd = require('./utils/generateMarkdown');
-const { resolve } = require('path');
 
 // TODO: Create an array of questions for user input
 const questions = [
