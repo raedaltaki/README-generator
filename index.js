@@ -36,7 +36,7 @@ const questions = [
         }
     },
     {
-        type:'input',
+        type:'editor',
         name: 'installation',
         message: 'Enter the installation steps',
         validate: input => 
