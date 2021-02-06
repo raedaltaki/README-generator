@@ -3,7 +3,7 @@
 
   ## Description
 
-  the project helps creating README.md file to your project
+The project helps creating README.md file for your project
   
   ## Table of Contents
 
@@ -16,9 +16,9 @@
 
 
   ## Installation
-  1- clone the reprositiry  into your computer
+  1- Clone the reprositiry  into your computer
 
-  2- install the inquirer from npm
+  2- Install the inquirer from npm
 
   3- Enter node index in the terminal 
 
@@ -56,6 +56,8 @@ WHEN I click on the links in the Table of Contents
 
 THEN I am taken to the corresponding section of the README
 
+Walkthrough Video: https://drive.google.com/file/d/1cU1PgOBUyp54HMlOXJOBOa4EnuzN3ydO/view
+
 
 
 ![Image 1](./assests/images/readme-generator.gif)
@@ -67,10 +69,10 @@ THEN I am taken to the corresponding section of the README
 
 
   ## Tests
-  
-  test: readme.md in main directory
 
-https://drive.google.com/file/d/1cU1PgOBUyp54HMlOXJOBOa4EnuzN3ydO/view
+  Test file: readme.md in main directory
+
+  Walkthrough Video: https://drive.google.com/file/d/1cU1PgOBUyp54HMlOXJOBOa4EnuzN3ydO/view
 
 
   ## Questions
